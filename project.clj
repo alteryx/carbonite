@@ -1,4 +1,4 @@
-(defproject storm/carbonite "1.5.0-csd-1"
+(defproject storm/carbonite "1.5.0-csd-2"
   :source-path "src/clj"
   :java-source-path "src/jvm"
   :description "Write Clojure data to and from bytes using Kryo."
